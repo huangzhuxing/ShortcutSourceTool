@@ -4,6 +4,10 @@ _English_ | _[中文](./README.md)_
 
 Shortcut Source Tool is a full-stack application for parsing, viewing, and converting iOS Shortcuts source code. It can directly retrieve shortcut source code from iCloud links, supports JSON and XML output formats, and provides a user-friendly interface to display shortcut content and structure.
 
+## Live Demo
+
+🚀 **[Try it now: https://sccode.900707.xyz/](https://sccode.900707.xyz/)**
+
 ## Screenshots
 
 ### Input Screen
