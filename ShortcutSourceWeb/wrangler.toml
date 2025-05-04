@@ -1,0 +1,8 @@
+# CloudFlare Pages配置
+name = "shortcut-source-web"
+
+[build]
+command = "npm run build"
+
+[site]
+bucket = "./dist"
